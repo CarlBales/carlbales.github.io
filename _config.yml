@@ -10,11 +10,13 @@ title: carlbales.io
 email: carl.d.bales@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a professional website for Carl Bales— an iOS Developer for the IBM Corporation and Elixir hobbyist.
-  Carl loves reading and learning new things. Mostly, he spends his time programming and binge watching Netflix with is wifi Amy.
+  Carl loves reading and learning new things. Mostly, he spends his time programming and binge watching Netflix with is wife Amy.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://carlbales.github.io" # the base hostname & protocol for your site
 twitter_username: carlbales
 github_username:  carlbales
+linkedin_username: carlbales
+facebook_username: carl.bales
 
 # Build settings
 markdown: kramdown
