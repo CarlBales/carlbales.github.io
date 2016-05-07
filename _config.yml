@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: carlbales.io
+email: carl.d.bales@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is a professional website for Carl Bales— an iOS Developer for the IBM Corporation and Elixir hobbyist.
+  Carl loves reading and learning new things. Mostly, he spends his time programming and binge watching Netflix with is wifi Amy.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://carlbales.github.io" # the base hostname & protocol for your site
+twitter_username: carlbales
+github_username:  carlbales
+
+# Build settings
+markdown: kramdown
