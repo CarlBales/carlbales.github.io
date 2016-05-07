@@ -15,11 +15,11 @@ Carl Bales is a full-stack mobile and web developer— focused on native iOS dev
 
 Carl lead rapid prototyping teams of developers to create full stack proof of concepts for federal civilian clients. Within the context of his role, Carl regularly consulted as a Technical Solutions Architect for new projects in the Federal space—creating high level solutions leveraging IBM Bluemix and IoT technology.
 
-Notable Roles and Projects:  
+_Notable Roles and Projects:_  
 
-* Technical Consultant, HUD							                      (04/2016 - Present)   
-* Solution Architect, Confidential Higher Education Client	 	(04/2016 - Present)  
-* Lead Developer, FEMA ‘Know Your Flood Line’	 		            (01/2016 - Present)  
+* _Technical Consultant, HUD							                      (04/2016 - Present)_   
+* _Solution Architect, Confidential Higher Education Client	 	(04/2016 - Present)_  
+* _Lead Developer, FEMA ‘Know Your Flood Line’	 		            (01/2016 - Present)_  
 
 
 **iOS Developer III, IBM Corporation**  
@@ -27,12 +27,12 @@ Notable Roles and Projects:
 
 Carl works directly under the Chief Architect for new IBM federal projects with USDA and Department of Interior, to assist in the solution architecture of and create proof-of-concept applications for federal projects leveraging the IBM BlueMix cloud PaaS. He works on a variety of projects as both a solo developer and as technical lead for short term Agile teams for rapid prototyping sprints. His work is technology agnostic, using mobile and web solutions as best fits the particular need. There is an emphasis on IoT technologies and Carl regularly works with hardware such as Arduino micro-controllers and Raspberry Pis. He is regularly required to contact collaborating organizations, vendors and internal SMEs in the completion of his duties.
 
-Notable Roles and Projects:
+_Notable Roles and Projects:_
 
-* Technical Consultant, Confidential Entertainment Client		 (12/2015 - 02/2016)  
-* Lead Developer, NRCS Water Quality Management Tool 		     (11/2015 - 01/2016)  
-* Mobile and Front-End Web Developer, DRIS  			           (10/2015 - Present)  
-* IoT Developer, Custom Sensor IoTF Project 			           (12/2015 - 02/2016)  
+* _Technical Consultant, Confidential Entertainment Client		 (12/2015 - 02/2016)_
+* _Lead Developer, NRCS Water Quality Management Tool 		     (11/2015 - 01/2016)_
+* _Mobile and Front-End Web Developer, DRIS  			           (10/2015 - Present)_
+* _IoT Developer, Custom Sensor IoTF Project 			           (12/2015 - 02/2016)_
 
 
 **iOS Developer II, IBM Corporation**  
@@ -40,14 +40,14 @@ Notable Roles and Projects:
 
 Carl joined IBM as part of the, then newly formed, Apple + IBM partnership. During his time with IBM, he has worked in a variety of roles with a technology agnostic approach to development. He is regarded as a Git source control SME and has consulted with a number of IBM project teams (e.g. Ford Motor Company, UK Post Office) on the subject. He is a recognized leader for Baton Rouge CIC— routinely leading informal “lunch and learn” training, speaking at local “BlueMix Meet-Ups”, assisting in the creation of a local developer resources wiki, working with upper management to design and update new hire training curriculum and leading Baton Rouge based PoC projects.
 
-Notable Roles and Projects:  
+_Notable Roles and Projects:_  
 
-* DevOps Engineer, ExxonMobil SpeedPass+ v4 			(07/2015 - 09/2015)  
-* Lead iOS Developer, ExxonMobil Fuel Finder Native Module 	(04/2015 - 06/2015)
-* iOS Developer, Universal Studios Guest Experience B&P Team 	(05/2015 - 06/2015)
-* 3rd Party Integration Consultant, USAA 				(05/2015 - 07/2015)  
-* Jr Back-End Developer, ExxonMobil SpeedPass+ v3 		(11/2014 - 04/2015)
-* Back-End Ruby on Rails Developer, IBM BenchUp PoC 		(09/2014 - 11/2014)
+* _DevOps Engineer, ExxonMobil SpeedPass+ v4 			(07/2015 - 09/2015)_  
+* _Lead iOS Developer, ExxonMobil Fuel Finder Native Module 	(04/2015 - 06/2015)_
+* _iOS Developer, Universal Studios Guest Experience B&P Team 	(05/2015 - 06/2015)_
+* _3rd Party Integration Consultant, USAA 				(05/2015 - 07/2015)_  
+* _Jr Back-End Developer, ExxonMobil SpeedPass+ v3 		(11/2014 - 04/2015)_
+* _Back-End Ruby on Rails Developer, IBM BenchUp PoC 		(09/2014 - 11/2014)_
 
 
 **Rails Support Engineer, Twin Engine Labs**  
@@ -77,8 +77,8 @@ Native iOS (Swift and Objective-C), Back-End Web (Ruby on Rails, Node.JS, Django
 iOS Development with Swift for Enterprise (Big Nerd Ranch), iOS Development with Swift Train-the-Trainers (Big Nerd Ranch), "Mobility First" Swift Boot Camp (IBM), Swift Essentials (IBM), iOS Development Essentials (IBM), Objective-C Essentials (IBM), JavaScript Essentials (IBM), Introduction Unity 3D (Previous Employer), Oil & Gas Consultant Training (Previous Employer), "Sales-ology" Sales training (Previous Employer), University of Louisiana System: Student Leaders Conference (College), Southern Conference IFC Officer Leadership Training (College), Midyear Leadership Training (College)
 
 ### Education:  
-B.A. Political Science  
+**B.A. Political Science**  
 Louisiana Tech University, 2011
 
-50+ Post-Bacc Hours, Cyber Engineering  
+**50+ Post-Bacc Hours, Cyber Engineering**  
 Louisiana Tech University, 2012 -2014
