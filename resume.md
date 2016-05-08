@@ -8,6 +8,8 @@ permalink: /resume/
 
 Carl Bales is a full-stack mobile and web developer— focused on native iOS development with Swift, and web development leveraging Ruby on Rails, Elixir, Django, J2EE, and Node.js. He is comfortable working as either a leader, or in a support capacity. He is a big picture thinker with a talent for abstraction and attacking problems from all sides. He has a passion for the Internet of Things, is an ardent UNIX fanboy and BlueMix cloud technologies evangelist.
 
+---
+
 ### Experience:
 
 **Sr. iOS Developer I, IBM Corporation**  
@@ -18,7 +20,7 @@ Carl lead rapid prototyping teams of developers to create full stack proof of co
 _Notable Roles and Projects:_  
 
 * _Technical Consultant, HUD							                      (04/2016 - Present)_   
-* _Solution Architect, Confidential Higher Education Client	 	(04/2016 - Present)_  
+* _Solution Architect, Confidential Higher Education Client	 	  (04/2016 - Present)_  
 * _Lead Developer, FEMA ‘Know Your Flood Line’	 		            (01/2016 - Present)_  
 
 
@@ -67,14 +69,19 @@ During his time with the Complex Litigation unit, Carl made his mark by streamli
 
 Carl assisted downstream oil and gas clients attract talent for highly specialized positions via use of social media. He was trained in sales, business development, and Oil & Gas consulting and developed industry knowledge. He created custom targeted marketing scripts and managed Access databases for managing applicant information.
 
+---
 
 ### Key Skills:   
 
 Native iOS (Swift and Objective-C), Back-End Web (Ruby on Rails, Node.JS, Django), Native Android, JavaEE (Apache Struts2, Spring), Front-End Web (Backbone.js, HTML[5], CSS, SCSS, jQueryUI, and Bootstrap), RESTful APIs, PaaS/IaaS Cloud Development and Deployment (Heroku, AWS, Bluemix, Cloud Foundry), Web Services (SOAP, JSON), OOP (C++, Java, Ruby), Functional Programming (Erlang), Scripting and Command Line Tool Development (C, Bash, Python, Ruby, Perl), Arduino, Raspberry Pi, Linux, and FPGA Digital Design (Verilog).
 
+---
+
 ### Training:
 
 iOS Development with Swift for Enterprise (Big Nerd Ranch), iOS Development with Swift Train-the-Trainers (Big Nerd Ranch), "Mobility First" Swift Boot Camp (IBM), Swift Essentials (IBM), iOS Development Essentials (IBM), Objective-C Essentials (IBM), JavaScript Essentials (IBM), Introduction Unity 3D (Previous Employer), Oil & Gas Consultant Training (Previous Employer), "Sales-ology" Sales training (Previous Employer), University of Louisiana System: Student Leaders Conference (College), Southern Conference IFC Officer Leadership Training (College), Midyear Leadership Training (College)
+
+---
 
 ### Education:  
 **B.A. Political Science**  
