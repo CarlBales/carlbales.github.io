@@ -12,16 +12,30 @@ Carl Bales is a full-stack mobile and web developer— focused on native iOS dev
 
 ### Experience:
 
-**Sr. iOS Developer I, IBM Corporation**  
-(02/2016 - Present)
+**Sr. Softwar Engineer, IBM Federal**
+(09/2016 - Present)
+
+Carl transitioned to the IBM Federal branch as a senior developer to focus on delivering mobile and cloud solutions to public sector clients. He worked with a wide array of technologies, including: Python Flask, Ruby Sinatra, Server Side Swift, Node.js, Android, Scala, and iOS. He was selected for the very competitive IBM Corporate Citizens program to assist the CDC in studying the Zika virus in Central and South America.
+
+_Notable Roles and Projects:_
+
+* _Lead Developer, Gorgas Institute - CDC                          (11/2016 - Present)_
+* _UI Developer & Text Processing Expert, BNSF Railways            (12/2016 - 01/2017)_
+* _DevOps Engineer, Department of Homeland Security Project        (11/2016 - 01/2017)_
+* _Senior iOS Developer, Department of Defense Project             (10/2016 - 01/2017)_
+* _Lead Developer, USPS ‘Promotions Review App                     (09/2016 - 11/2016)_
+
+
+**Sr. iOS Developer I, IBM Corporation**
+(02/2016 - O9/2016)
 
 Carl lead rapid prototyping teams of developers to create full stack proof of concepts for federal civilian clients. Within the context of his role, Carl regularly consulted as a Technical Solutions Architect for new projects in the Federal space—creating high level solutions leveraging IBM Bluemix and IoT technology.
 
 _Notable Roles and Projects:_  
 
-* _Technical Consultant, HUD							                      (04/2016 - Present)_   
-* _Solution Architect, Confidential Higher Education Client	 	  (04/2016 - Present)_  
-* _Lead Developer, FEMA ‘Know Your Flood Line’	 		            (01/2016 - Present)_  
+* _Technical Consultant, HUD                                      (04/2016 - Present)_
+* _Solution Architect, Confidential Higher Education Client       (04/2016 - Present)_
+* _Lead Developer, FEMA ‘Know Your Flood Line’                    (01/2016 - Present)_
 
 
 **iOS Developer III, IBM Corporation**  
@@ -31,10 +45,10 @@ Carl works directly under the Chief Architect for new IBM federal projects with 
 
 _Notable Roles and Projects:_
 
-* _Technical Consultant, Confidential Entertainment Client		 (12/2015 - 02/2016)_
-* _Lead Developer, NRCS Water Quality Management Tool 		     (11/2015 - 01/2016)_
-* _Mobile and Front-End Web Developer, DRIS  			           (10/2015 - Present)_
-* _IoT Developer, Custom Sensor IoTF Project 			           (12/2015 - 02/2016)_
+* _Technical Consultant, Confidential Entertainment Client      (12/2015 - 02/2016)_
+* _Lead Developer, NRCS Water Quality Management Tool           (11/2015 - 01/2016)_
+* _Mobile and Front-End Web Developer, DRIS                     (10/2015 - Present)_
+* _IoT Developer, Custom Sensor IoTF Project                    (12/2015 - 02/2016)_
 
 
 **iOS Developer II, IBM Corporation**  
@@ -44,12 +58,12 @@ Carl joined IBM as part of the, then newly formed, Apple + IBM partnership. Duri
 
 _Notable Roles and Projects:_  
 
-* _DevOps Engineer, ExxonMobil SpeedPass+ v4 			(07/2015 - 09/2015)_  
-* _Lead iOS Developer, ExxonMobil Fuel Finder Native Module 	(04/2015 - 06/2015)_
-* _iOS Developer, Universal Studios Guest Experience B&P Team 	(05/2015 - 06/2015)_
-* _3rd Party Integration Consultant, USAA 				(05/2015 - 07/2015)_  
-* _Jr Back-End Developer, ExxonMobil SpeedPass+ v3 		(11/2014 - 04/2015)_
-* _Back-End Ruby on Rails Developer, IBM BenchUp PoC 		(09/2014 - 11/2014)_
+* _DevOps Engineer, ExxonMobil SpeedPass+ v4                    (07/2015 - 09/2015)_
+* _Lead iOS Developer, ExxonMobil Fuel Finder Native Module     (04/2015 - 06/2015)_
+* _iOS Developer, Universal Studios Guest Experience B&P Team   (05/2015 - 06/2015)_
+* _3rd Party Integration Consultant, USAA                       (05/2015 - 07/2015)_
+* _Jr Back-End Developer, ExxonMobil SpeedPass+ v3              (11/2014 - 04/2015)_
+* _Back-End Ruby on Rails Developer, IBM BenchUp PoC            (09/2014 - 11/2014)_
 
 
 **Rails Support Engineer, Twin Engine Labs**  
